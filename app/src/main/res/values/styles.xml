@@ -1,5 +1,0 @@
-<resources>
-    <style name="Theme.MILLIE" parent="Theme.AppCompat.NoActionBar">
-        <item name="android:windowBackground">#0a0f0a</item>
-    </style>
-</resources>
